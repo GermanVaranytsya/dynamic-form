@@ -1,0 +1,1 @@
+/* eslint-disable */import Header from '@/components/Header/index.vue'import ProgressBar from '@/components/ProgressBar/index.vue'import Footer from '@/components/Footer/index.vue'export default {  name: 'c',  components: {    Header,    ProgressBar,    Footer  }}

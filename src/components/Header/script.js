@@ -1,0 +1,1 @@
+/* eslint-disable */export default {  name: 'header',  props: {    msg: String  }}
